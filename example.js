@@ -7,7 +7,7 @@ print(“hello, member1’s name”);
 }
 
 function hello2() {
-print(“hello, member2’s name”);
+print(“hello, s10042’s name”);
 }
 
 function hello3() {
